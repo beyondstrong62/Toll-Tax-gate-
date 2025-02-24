@@ -1,6 +1,5 @@
-<<<<<<< HEAD
-# Toll-Tax-gate-
-Toll tax gate
-=======
 # Smart_Toll_System
->>>>>>> 6fd29cd (Initial commit)
+
+![Toll System](IMG-20250224-WA0003.jpg)
+
+[Watch Video](VID-20250224-WA0001.mp4)
